@@ -21,7 +21,7 @@ O projeto foi desenvolvido para demonstrar habilidades de análise de dados, aut
 
 ### Pré-requisitos
 
-1. **Instalar o Python** (versão 3.10 ou superior) no seu sistema.
+1. **Instalar o Python** 
 2. **Instalar as dependências do projeto**:
    - Execute o comando abaixo para instalar as bibliotecas necessárias:
 
